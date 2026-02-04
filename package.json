@@ -1,4 +1,5 @@
 {
+  "$schema": "https://json.schemastore.org/package",
   "name": "casa0028-trial-site-photography",
   "private": true,
   "version": "0.0.0",
@@ -23,5 +24,6 @@
     "eslint-plugin-react-refresh": "^0.4.24",
     "globals": "^16.5.0",
     "vite": "^7.2.4"
-  }
+  },
+  "homepage": "https://CASMulder2003.github.io/casa0028-trial-site-photography/"
 }
